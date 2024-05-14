@@ -1,0 +1,28 @@
+1.Teoria
+Las estrategias de deployment son técnicas fundamentales en el
+ despliegue de aplicaciones, permitiendo la implementación de nuevas 
+ funcionalidades o actualizaciones de manera eficiente. Desde enfoques 
+ básicos hasta métodos más avanzados, cada estrategia tiene sus propias 
+ características y casos de uso.
+
+ 2.Reflexion
+El deploymen de una aplicación es un momento crítico en su 
+ ciclo de vida. Si bien puede ser emocionante para los usuarios finales
+  verlo en acción, también puede resultar algo estresante debido a los problemas 
+  técnicos involucrados y la enorme responsabilidad que implica garantizar su 
+  confiabilidad y seguridad. Por lo tanto, el proceso de implementación debe planificarse 
+  y practicarse cuidadosamente para minimizar errores y evitar tiempos de inactividad innecesarios.
+
+3.Analogia
+El deployment es como el lanzamiento de un cohete. Después de meticulosos preparativos, 
+llega el momento de poner en marcha la misión. Aunque emocionante, también implica una carga
+ de responsabilidad para asegurar que todo funcione sin contratiempos y que el viaje sea seguro 
+ y exitoso.
+
+4.Resumen
+El deploymen es un paso crítico en el ciclo de vida del desarrollo de software.
+ Esto implica trasladar aplicaciones desde los entornos de desarrollo a los de producción, 
+ garantizando su funcionamiento confiable y seguro para los usuarios finales. La planificación 
+ y la práctica cuidadosas de este proceso son esenciales para minimizar los errores y el tiempo 
+ de inactividad.
+

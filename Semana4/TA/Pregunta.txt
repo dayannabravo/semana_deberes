@@ -1,0 +1,17 @@
+1.¿Cuál es una práctica recomendada durante el proceso de deployment?
+A) Saltarse las pruebas de calidad para acelerar el proceso.
+B) Planificar cuidadosamente y practicar el proceso de deployment.
+C) Realizar el deployment directamente en el entorno de producción sin pruebas previas.
+Respuesta correcta: B
+
+2.¿Cuál es el riesgo de un deployment mal ejecutado?
+A) Experimentar tiempos de inactividad y pérdida de datos.
+B) Aumentar la seguridad de la aplicación.
+C) Obtener más usuarios para la aplicación.
+Respuesta correcta: A
+
+3.¿Qué es el deployment?
+A) Aumenta el estrés del equipo de desarrollo.
+B) El proceso de desarrollar nuevas características.
+C) El proceso de llevar una aplicación al entorno de producción.
+Respuesta correcta: C
